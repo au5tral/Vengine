@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.lib
+*.pdb
+/build/
+/bin/
+/obj/
+.vs/
+x64/
+Debug/
+Realese/
+
